@@ -168,5 +168,16 @@ const Users = {
       portfolio: "",
     },
   },
+    "AditKanaji": {
+    name: "Adit Kanaji",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/AditKanaji",
+      instagram: "https://www.instagram.com/adit_kanaji/?hl=en",
+      linkedin: "",
+      portfolio: "",
+    },
+  },
 };
 export default Users;
